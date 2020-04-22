@@ -1,0 +1,28 @@
+C:\Users\Xuan Tuan\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\FaceRecProOV\bin\Debug\MultiFaceRec.exe
+C:\Users\Xuan Tuan\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\FaceRecProOV\bin\Debug\MultiFaceRec.pdb
+C:\Users\Xuan Tuan\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Xuan Tuan\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\FaceRecProOV\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Xuan Tuan\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Xuan Tuan\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Xuan Tuan\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Xuan Tuan\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\FaceRecProOV\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Xuan Tuan\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\FaceRecProOV\obj\x86\Debug\MultiFaceRec.pdb
+D:\Home_Work\Project66_NhanDienKhuonMat\App\FaceRecProOV\bin\Debug\MultiFaceRec.exe
+D:\Home_Work\Project66_NhanDienKhuonMat\App\FaceRecProOV\bin\Debug\MultiFaceRec.pdb
+D:\Home_Work\Project66_NhanDienKhuonMat\App\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+D:\Home_Work\Project66_NhanDienKhuonMat\App\FaceRecProOV\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+D:\Home_Work\Project66_NhanDienKhuonMat\App\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+D:\Home_Work\Project66_NhanDienKhuonMat\App\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+D:\Home_Work\Project66_NhanDienKhuonMat\App\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+D:\Home_Work\Project66_NhanDienKhuonMat\App\FaceRecProOV\obj\x86\Debug\MultiFaceRec.exe
+D:\Home_Work\Project66_NhanDienKhuonMat\App\FaceRecProOV\obj\x86\Debug\MultiFaceRec.pdb
+D:\HomeWork\Project_1_FaceDetection\App\FaceRecProOV\bin\Debug\MultiFaceRec.exe
+D:\HomeWork\Project_1_FaceDetection\App\FaceRecProOV\bin\Debug\MultiFaceRec.pdb
+D:\HomeWork\Project_1_FaceDetection\App\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+D:\HomeWork\Project_1_FaceDetection\App\FaceRecProOV\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+D:\HomeWork\Project_1_FaceDetection\App\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+D:\HomeWork\Project_1_FaceDetection\App\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+D:\HomeWork\Project_1_FaceDetection\App\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+D:\HomeWork\Project_1_FaceDetection\App\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+D:\HomeWork\Project_1_FaceDetection\App\FaceRecProOV\obj\x86\Debug\MultiFaceRec.exe
+D:\HomeWork\Project_1_FaceDetection\App\FaceRecProOV\obj\x86\Debug\MultiFaceRec.pdb
